@@ -1,3 +1,13 @@
+---
+title: Fraud Detection Environment
+emoji: 🛡️
+colorFrom: blue
+colorTo: purple
+sdk: docker
+sdk_version: "1.0"
+app_file: app.py
+pinned: false
+---
 # AI Fraud Detection Dashboard
 
 A premium React + Tailwind + Framer Motion UI for real-time scam analysis.
