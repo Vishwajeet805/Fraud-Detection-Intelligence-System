@@ -1,3 +1,5 @@
+from server.app import app
+from __future__ import annotations
 """
 app.py — FastAPI server for the Fraud Detection OpenEnv Environment.
 
@@ -11,8 +13,7 @@ Exposes the standard OpenEnv HTTP API:
 
 Compatible with Hugging Face Spaces and openenv validate.
 """
-from server.app import app
-from __future__ import annotations
+
 
 import os
 import sys
