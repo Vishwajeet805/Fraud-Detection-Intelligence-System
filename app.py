@@ -11,7 +11,7 @@ Exposes the standard OpenEnv HTTP API:
 
 Compatible with Hugging Face Spaces and openenv validate.
 """
-
+from server.app import app
 from __future__ import annotations
 
 import os
