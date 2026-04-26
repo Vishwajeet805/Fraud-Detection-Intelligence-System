@@ -1,9 +1,3 @@
-"""
-app_ui.py — Gradio UI for Fraud Detection OpenEnv Environment.
-
-Connects directly to existing backend classes.
-Run with: python app_ui.py
-"""
 
 from __future__ import annotations
 import sys, os
@@ -15,6 +9,13 @@ import gradio as gr
 from features import extract_features
 from reward_engine import compute_reward
 from models import FraudAction
+"""
+app_ui.py — Gradio UI for Fraud Detection OpenEnv Environment.
+
+Connects directly to existing backend classes.
+Run with: python app_ui.py
+"""
+
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 
