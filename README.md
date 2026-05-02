@@ -185,7 +185,7 @@ The platform is deployed using a unified architecture:
 
 - Live Demo: <[https://huggingface.co/spaces/Vishwajeet8055/Fraud_Detection_ENV](https://huggingface.co/spaces/Vishwajeet8055/Fraud_Detection_ENV)>  
 - Training Notebook: <[https://colab.research.google.com/drive/1iAXuWLal5Xu8nPjortVCWB3XjgM20iEC?usp=sharing](https://colab.research.google.com/drive/1iAXuWLal5Xu8nPjortVCWB3XjgM20iEC?usp=sharing)>  
-- Demo Video (optional): <your-video-link>  
+- Demo Video (optional): <[https://youtu.be/YwPCpGg5WoI?si=HzaRjRbuSrQDI6kh](https://youtu.be/YwPCpGg5WoI?si=HzaRjRbuSrQDI6kh)>  
 
 ---
 
